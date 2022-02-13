@@ -1,0 +1,4 @@
+4#Não imprime#Impressora#bla bla bla bla
+4#A placa de video nao esta dando video #Hardware#bla bla bla bla
+4#internet ruim#Rede#bla bla bla bla bla bla
+4#windows#Software#bla bla bla bla bla bla
